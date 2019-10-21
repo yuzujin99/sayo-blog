@@ -1,0 +1,1 @@
+[Host on GitLab - Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-gitlab/)

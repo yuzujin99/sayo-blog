@@ -1,0 +1,74 @@
+# site information
+title: sayo melu
+description: tech design life acg
+url: dat://sayo-melu.xyz
+author: sayo melu
+email: sayo-melu@outlook.com
+logo: /asset/icon/logo.png # url of your logo or avatar
+lang: zh-hans # language-territory
+color: '#dc9fb4'
+
+podcast:
+  title: sayo cast
+  description: 欢迎来到 sayo cast. 我是 sayo, 一名热爱思考的计算机专业学生, 这是一档关于生活, 设计的我的个人日记. 
+  link: /podcast
+  url: /podcast.xml
+  author: sayo melu
+  email: sayo-cast@outlook.com
+  logo: /asset/icon/podcast-logo.png
+  language: zh
+  category: 'Society &amp; Culture'
+  subcategory: 'Personal Journals'
+  type: episodic
+  explicit: false
+  complete: 'no'
+  block: 'no'
+
+social:
+  name: sayo melu
+  links:
+    - https://twitter.com/sayo-melu
+    - https://github.com/sayo-melu
+    - https://www.linkedin.com/in/sayomelu
+
+webmaster_verifications:
+  bing:
+  google:
+  yandex:
+
+# comment
+github-issue: 'sayo-melu/sayo-melu.github.io' # github username/repository, e.g. 'username/repository'
+disqus: # disqus shortname
+livere: # livere data-uid
+
+# analytic
+google_analytics: # google analytics web tracking code
+
+# jekyll config
+permalink: /:title/
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+include:
+
+exclude:
+  - cname
+  - gemfile
+  - gemfile.lock
+  - license.txt
+  - readme.md
+  - page/notebook.html_backup
+  - dat
+  - vendor

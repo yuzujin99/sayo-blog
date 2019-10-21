@@ -1,0 +1,80 @@
+# site information
+title: sayo melu
+description: 💻 tech  ✒️ design  ☕️ life  💮 anime
+url: https://sayo-melu.xyz
+author: sayo melu
+email: sayo-melu@outlook.com
+logo: /asset/icon/logo.png # url of your logo or avatar
+lang: zh-hans # language-territory
+color: '#dc9fb4'
+feed: true
+
+podcast:
+  title: sayo cast
+  description: 欢迎来到 sayo cast. 我是 sayo, 一名热爱思考的计算机专业学生, 这是一档关于生活, 设计的我的个人日记. 
+  link: /podcast
+  url: /podcast.xml
+  author: sayo melu
+  email: sayo-cast@outlook.com
+  logo: /asset/icon/podcast-logo.png
+  language: zh
+  category: 'Society &amp; Culture'
+  subcategory: 'Personal Journals'
+  type: episodic
+  explicit: false
+  complete: 'no'
+  block: 'no'
+
+social:
+  name: sayo melu
+  links:
+    - https://twitter.com/sayo-melu
+    - https://github.com/sayo-melu
+    - https://www.linkedin.com/in/sayomelu
+
+comment:
+  vssue:
+    state: true
+    owner: sayo-melu
+    repo: sayo-melu.xyz
+    clientID: 20ec7630039f76eae907
+    clientSecret: 02be09c883a253670a1cf4fd158cbb3539d5f2d2
+  disqus: # disqus shortname
+  livere: # livere data-uid
+
+analytic:
+  google: # web tracking code
+
+webmaster_verifications:
+  bing:
+  google:
+  yandex:
+
+
+# jekyll config
+permalink: /:title/
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+include:
+
+exclude:
+  - cname
+  - gemfile
+  - gemfile.lock
+  - license.txt
+  - readme.md
+  - page/notebook.html_backup
+  - dat
+  - vendor
