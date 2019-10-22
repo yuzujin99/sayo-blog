@@ -36,7 +36,7 @@ comment:
   vssue:
     state: true
     owner: sayo-melu
-    repo: sayo-melu.xyz
+    repo: sayo-blog
     clientID: 20ec7630039f76eae907
     clientSecret: 02be09c883a253670a1cf4fd158cbb3539d5f2d2
   disqus: # disqus shortname
@@ -65,7 +65,6 @@ sass:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 include:
 
