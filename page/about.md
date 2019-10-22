@@ -1,10 +1,8 @@
 ---
 layout: post
-title: about
+title: sayo melu
 permalink: /about
 ---
-
-sayo melu
 
 💻 tech  ✒️ design  ☕️ life  💮 anime
 
@@ -20,10 +18,6 @@ sayo melu
 - [gog](https://www.gog.com/u/sayo-melu) |
 [steam](https://steamcommunity.com/id/sayo-melu/) |
 switch: 6284-9034-1916
-
-## biography
-
-'start our imagination!'
 
 ## timeline
 
@@ -47,6 +41,6 @@ switch: 6284-9034-1916
 - [kiv zone](https://kivenchen.us)
 - [kison he](https://kisonhe.github.io)
 
----
+## theme
 
-[sayo theme](https://gitlab.com/sayo-melu/sayo-melu.xyz) edited from [jekyll now](https://github.com/barryclark/jekyll-now) with [gitalk](https://github.com/gitalk/gitalk/).
+[sayo theme](https://gitlab.com/sayo-melu/sayo-blog) edited from [jekyll now](https://github.com/barryclark/jekyll-now) with [vssue](https://vuejs.org).

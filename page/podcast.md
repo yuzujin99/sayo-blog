@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: list-podcast
 title: podcast
 permalink: /podcast
 ---
@@ -12,13 +12,3 @@ permalink: /podcast
 [overcast](https://overcast.fm/itunes1459044150/sayo-cast) |
 [pocket cast](https://pca.st/HiSjnP) |
 [rss]({{'/podcast.xml' | absolute_url}})
-
-## 播客单集
-
-{% for post in site.categories.podcast %}
-<div>
-  <h3><a href='{{ post.url }}'>{{post.episode}}. {{ post.title }}</a></h3>
-  {{ post.excerpt }}
-</div>
-<hr>
-{% endfor %}
