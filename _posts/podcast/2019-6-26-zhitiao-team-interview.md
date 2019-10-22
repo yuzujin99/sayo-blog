@@ -1,5 +1,5 @@
 ---
-layout: podcast
+layout: post-podcast
 categories: podcast
 tags: [think]
 title: '''纸条'' 团队采访'

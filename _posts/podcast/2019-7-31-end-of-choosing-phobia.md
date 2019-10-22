@@ -1,5 +1,5 @@
 ---
-layout: podcast
+layout: post-podcast
 categories: podcast
 tags: [life]
 title: 选择困难症的末日

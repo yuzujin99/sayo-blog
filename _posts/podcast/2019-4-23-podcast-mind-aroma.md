@@ -1,5 +1,5 @@
 ---
-layout: podcast
+layout: post-podcast
 categories: podcast
 tags: [podcast, think]
 title: '播客: 思想香薰'

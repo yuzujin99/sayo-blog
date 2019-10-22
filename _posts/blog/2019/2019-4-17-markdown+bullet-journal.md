@@ -72,8 +72,6 @@ Presentation
 
 [Demo](/asset/other/markdown+bullet-journal-demo.md)
 
----
-
 ## Bullet Journal
 
 子弹笔记是可定制的, 宽松的笔记系统. 它可以用作待办清单, 素描本, 笔记本或是日记本, 更多时候, 它包含了以上所有. 它会让你事半功倍. 

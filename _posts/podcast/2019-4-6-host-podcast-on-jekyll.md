@@ -1,5 +1,5 @@
 ---
-layout: podcast
+layout: post-podcast
 categories: podcast
 tags: [podcast, blog]
 title: host podcast on jekyll (在 jekyll 上托管播客)
