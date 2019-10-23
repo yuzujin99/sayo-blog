@@ -17,7 +17,7 @@ permalink: /style.css
     --color-0: #1c1c1e;
     --color-0-alpha: rgba(28,28,30,0.8);
     --color-1: #d1d1d6;
-    --color-2: #7070b8;
+    --color-2: #707078;
     --color-3: #2c2c2e;
   }
 
@@ -45,27 +45,27 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--color-1);
-  font-weight: 500;
   padding: 0;
+  font-weight: 500;
+  color: var(--color-1);
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: inherit;
 }
 
 h1 {
-  font-size: 40px;
   margin: 40px 0 5px 0;
+  font-size: 40px;
 }
 
 h2 {
-  font-size: 30px;
   margin: 40px 0 5px 0;
+  font-size: 30px;
 }
 
 h3 {
-  font-size: 20px;
   margin: 30px 0 5px 0;
+  font-size: 20px;
 }
 
 a {
@@ -78,8 +78,8 @@ a:hover, a:active {
 }
 
 ul, ol {
+  padding: 0 0 0 30px;
   margin: 0.5rem 0;
-  padding-left: 30px;
 }
 ul > .task-list-item, ol > .task-list-item {
   list-style-type: none;
