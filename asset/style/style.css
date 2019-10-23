@@ -1,12 +1,10 @@
 :root {
   --color-0: #ffffff;
   --color-0-alpha: rgba(255,255,255,0.8);
-  --color-link: {{ site.color }};
   --color-1: #000000;
   --color-2: #aeaeb2;
   --color-3: #e5e5ea;
 }
-
 @media (prefers-color-scheme: dark) {
   :root {
     --color-0: #1c1c1e;
@@ -15,7 +13,6 @@
     --color-2: #707078;
     --color-3: #2c2c2e;
   }
-
   img {
     opacity: .8;
   }
