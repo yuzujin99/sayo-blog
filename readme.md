@@ -26,4 +26,9 @@ bundle exec jekyll build
 asset/config/dat/build-dat.sh
 ```
 
+## todo
+
+- fix color with https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
+- fix heading font size
+
 [sayo theme](https://gitlab.com/sayo-melu/sayo-melu.xyz) edited from [jekyll now](https://github.com/barryclark/jekyll-now).
