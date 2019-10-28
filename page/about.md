@@ -16,7 +16,7 @@ permalink: /about
 [github](https://github.com/sayo-melu)
 - [gog](https://www.gog.com/u/sayo-melu) |
 [steam](https://steamcommunity.com/id/sayo-melu/) |
-[xbox](https://account.xbox.com/profile?gamertag=sayo%20melu)
+[xbox](https://account.xbox.com/profile?gamertag=sayo%20melu) |
 switch: 6284-9034-1916
 
 ## timeline
