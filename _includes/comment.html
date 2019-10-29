@@ -1,6 +1,12 @@
 {% if page.comment == true %}
 {% if site.comment.vssue.state %}
   <link rel="stylesheet" href="https://unpkg.com/vssue/dist/vssue.min.css">
+  <style>
+    .vssue :not(.vssue-comment-content) a, .vssue .vssue-button:not(:disabled).vssue-button-primary, .vssue .vssue-status {
+      color: {{ site.color }};
+      border-color: {{ site.color }};
+    }
+  </style>
   <div id="vssue"></div>
   <script src="https://unpkg.com/vue/dist/vue.runtime.min.js"></script>
   <script src="https://unpkg.com/vssue/dist/vssue.github.min.js"></script>
