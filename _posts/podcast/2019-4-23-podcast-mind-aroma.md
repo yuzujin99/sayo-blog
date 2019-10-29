@@ -8,7 +8,7 @@ season:
 episode: 1
 episodeType: full
 explicit: false
-audio: https://gitlab.com/sayo-melu/sayo-podcast/raw/master/asset/podcast/2019-4-23-podcast-mind-aroma.m4a
+audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-4-23-podcast-mind-aroma.m4a
 length: 2007
 comment: true
 ---

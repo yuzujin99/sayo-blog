@@ -8,7 +8,7 @@ season:
 episode: 3
 episodeType: full
 explicit: false
-audio: https://gitlab.com/sayo-melu/sayo-podcast/raw/master/asset/podcast/2019-7-31-end-of-choosing-phobia.m4a
+audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-7-31-end-of-choosing-phobia.m4a
 length: 2266
 comment: true
 ---
