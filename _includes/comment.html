@@ -13,9 +13,9 @@
   <script>
     new Vue({
       el: '#vssue',
-      render: h => h('Vssue', {
+      render: h => h('vssue', {
         props: {
-          title: '{{ page.title }}',
+          title: "{{ page.title }}",
           options: {
             owner: '{{ site.comment.vssue.owner }}',
             repo: '{{ site.comment.vssue.repo }}',

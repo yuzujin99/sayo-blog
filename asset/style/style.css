@@ -31,6 +31,10 @@ main {
   max-width: 800px;
 }
 
+article {
+  margin: 5em 0;
+}
+
 p {
   margin: 1.3em 0;
   line-height: 1.6em;
