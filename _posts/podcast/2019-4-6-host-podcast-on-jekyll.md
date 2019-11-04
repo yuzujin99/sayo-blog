@@ -4,8 +4,8 @@ categories: podcast
 tags: [podcast, blog]
 title: host podcast on jekyll (在 jekyll 上托管播客)
 author: sayo melu
-season:
-episode: 0
+season: 1
+episode: 1
 episodeType: trailer
 explicit: false
 audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-4-23-podcast-mind-aroma.m4a

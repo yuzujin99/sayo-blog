@@ -4,8 +4,8 @@ categories: podcast
 tags: [think]
 title: '''纸条'' 团队采访'
 author: sayo melu
-season:
-episode: 2
+season: 1
+episode: 3
 episodeType: full
 explicit: false
 audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-7-26-zhitiao-team-interview.m4a

@@ -4,8 +4,8 @@ categories: podcast
 tags: [podcast, think]
 title: '播客: 思想香薰'
 author: sayo melu
-season:
-episode: 1
+season: 1
+episode: 2
 episodeType: full
 explicit: false
 audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-4-23-podcast-mind-aroma.m4a
