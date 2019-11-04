@@ -1,10 +1,8 @@
 ---
 layout: post
-title: sayo melu
+title: about
 permalink: /about
 ---
-
-💻 tech  ✒️ design  ☕️ life  💮 anime
 
 - [rss](/feed.xml) |
 [podcast](/podcast.xml) |

@@ -1,0 +1,279 @@
+// block mixins
+
+mobile()
+  @media screen and (max-width: 800px)
+    {block}
+
+
+
+
+// theme
+
+:root
+  --color-0: #ffffff
+  --color-1: #1c1c1e
+  --color-2: #aeaeb2
+  --color-3: #e5e5ea
+
+@media (prefers-color-scheme: dark)
+  :root
+    --color-0: #1c1c1e
+    --color-1: #e5e5ea
+    --color-2: #707078
+    --color-3: #2c2c2e
+  img
+    opacity: 0.8
+
+
+
+
+// main
+
+body
+  background: var(--color-0)
+  font-family: sans-serif
+  font: 16px sans-serif
+  color: var(--color-1)
+
+main
+  padding: 0 5px
+  margin: 5rem auto
+  max-width: 800px
+  +mobile()
+    margin: 3rem auto
+
+article
+  margin: 5em 0
+
+p
+  margin: 1.3em 0
+  line-height: 1.6em
+
+h1, h2, h3, h4, h5, h6
+  padding: 0
+  font-weight: 500
+  color: var(--color-1)
+  > a
+    color: inherit
+
+h1
+  margin: 40px 0 5px 0
+  font-size: 40px
+
+h2
+  margin: 40px 0 5px 0
+  font-size: 30px
+
+h3
+  margin: 30px 0 5px 0
+  font-size: 20px
+
+a
+  color: var(--color-link)
+  text-decoration: none
+  cursor: pointer
+  :hover, :active
+    color: var(--color-link)
+
+ul, ol
+  padding: 0 0 0 30px
+  margin: 0.5rem 0
+  .task-list-item
+    list-style-type: none
+
+.task-list-item
+  .task-list-item-checkbox
+    margin: 0em 0.2em 0.25em -1.6em
+    vertical-align: middle
+
+ul
+  display: block
+  list-style-type: disc
+  margin-block-start: 1em
+  margin-block-end: 1em
+  padding-inline-start: 40px
+  ul
+    list-style-type: disc
+
+ol
+  list-style-type: decimal
+  ul
+    list-style-type: disc
+
+li
+  margin: 0.5rem 0
+
+em, i
+  font-style: italic
+
+strong, b
+  font-weight: bold
+
+hr
+  margin: 30px 0
+  border: 0
+  height: 1px
+  background-color: var(--color-1)
+  opacity: 0.2
+
+img
+  display: block
+  max-width: 100%
+  max-height: 25rem
+  margin: 1em auto
+  border-radius: 5px
+
+dt
+  float: left
+  width: 180px
+  overflow: auto
+  clear: left
+  text-align: right
+  white-space: nowrap
+  font-weight: bold
+  margin-bottom: 0.4em
+  +mobile()
+    width: 120px
+
+dd
+  margin-left: 200px
+  margin-bottom: 0.4em
+  +mobile()
+    width: 120px
+
+code
+  font-family: monospace
+  border: 1px, blod
+  border-radius: 3px
+  font-size: 80%
+  padding: 0.2em 0.4em
+  background-color: rgba(27, 31, 35, 0.05)
+
+blockquote
+  font-weight: 300
+  padding: 0 0 0 1.4rem
+  margin: 0 2rem 1rem 0
+  border-left: 0.2em solid var(--color-1)
+  > p
+    color: var(--color-2)
+
+table
+  margin-bottom: 1rem
+  width: 100%
+  border: 1px solid var(--color-3)
+  border-collapse: collapse
+
+td, th
+  padding: 0.25rem 0.5rem
+  border: 1px solid var(--color-3)
+
+tbody
+  tr:nth-child(odd) 
+    td, th
+      background-color: var(--color-3)
+
+.footnote
+  margin: 0 0.25em
+  font-size: 12px
+
+.footnotes
+  margin: 4em 0
+  color: var(--color-2)
+
+
+
+
+// section
+
+header
+  margin: 0 auto
+  max-width: 850px
+  padding: 2rem 0
+  +mobile()
+    padding: 40px 0 0 0
+    text-align: center
+
+nav
+  float: right
+  margin-top: 1.5rem
+  font-size: 1.2rem
+  +mobile()
+    float: none
+    margin: 1rem 0 0 0
+    display: block
+    font-size: 1rem
+  > a
+    margin-left: 1.5rem
+    color: var(--color-2)
+    text-align: right
+    font-weight: 300
+    letter-spacing: 1px
+    +mobile()
+      margin: 0 0.5rem
+      font-weight: 400
+
+time
+  display: inline-block
+  margin: 5px 0
+  padding: 2px 0
+  font-weight: 300
+  font-size: 90%
+  color: var(--color-2)
+
+.site-logo
+  float: left
+  width: 70px
+  height: 70px
+  margin: 0 20px 0 0
+  +mobile()
+    margin: 0 10px 0 10px
+    float: none
+    display: block
+    margin: 0 auto
+  > img
+    margin: 0
+    border-radius: 40px
+
+.site-info
+  float: left
+  margin: 0
+  +mobile()
+    float: none
+    display: block
+    margin: 0 auto
+
+.site-name
+  margin: 0
+  font-weight: 300
+  font-size: 28px
+  line-height: 1.5em
+
+.site-description
+  margin: 0
+  color: var(--color-2)
+  font-size: 16px
+  font-weight: 300
+  +mobile()
+    margin: 5px 0
+
+.post-list
+  margin: 0 0 em 0
+  > p
+    color: var(--color-2)
+
+.comments
+  margin: 3rem 0 0 0
+
+.tag
+  display: inline
+  font-size: 80%
+  font-weight: 400
+  > span, a
+    display: inline-block
+    margin: 3px
+    padding: 2px 7px
+    color: var(--color-1)
+    background-color: var(--color-3)
+    border-radius: 5px
+  > a .count
+      border-radius: 5px
