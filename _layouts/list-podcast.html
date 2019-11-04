@@ -7,7 +7,7 @@ layout: post
 {% for post in site.categories.podcast %}
 <a href='{{ post.url }}'>
   <div class='post-list'>
-    <h3>{{post.episode}}. {{ post.title }}</h3>
+    <h3>{% if post.season %}{{ post.season }}.{% endif %}{{post.episode}} {{ post.title }}</h3>
     <time>{{ post.date | date: '%Y.%m.%d' }}</time>
     <div class='tag tag-post'>{% for tag in post.tags %} <span> {{ tag }}</span>{% endfor %}</div>
     <p>{{ post.excerpt | strip_html }}</p>
