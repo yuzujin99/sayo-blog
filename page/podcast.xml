@@ -29,7 +29,7 @@ permalink: /podcast.xml
     <item>
       <title>{{ post.title }}</title>
       <itunes:author>{{ post.author }}</itunes:author>
-      <itunes:season>{{ post.season }}</itunes:season>
+      {% if post.season %}<itunes:season>{{ post.season }}</itunes:season>{% endif %}
       <itunes:episode>{{ post.episode }}</itunes:episode>
       <itunes:episodeType>{{ post.episodeType }}</itunes:episodeType>
       <itunes:explicit>{{ post.explicit }}</itunes:explicit>
