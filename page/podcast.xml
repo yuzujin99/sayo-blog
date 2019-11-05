@@ -24,16 +24,18 @@ permalink: /podcast.xml
     <itunes:type>{{ site.podcast.type }}</itunes:type>
     <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
     <itunes:complete>{{ site.podcast.complete }}</itunes:complete>
-    <itunes:block>{{ site.podcast.block }}</itunes:block>
+    {% if site.podcast.new-feed-url %}<itunes:new-feed-url>{{ site.podcast.new-feed-url }}</itunes:new-feed-url>{% endif %}
     {% for post in site.categories.podcast %}
     <item>
       <title>{{ post.title }}</title>
       <itunes:author>{{ post.author }}</itunes:author>
       {% if post.season %}<itunes:season>{{ post.season }}</itunes:season>{% endif %}
-      <itunes:episode>{{ post.episode }}</itunes:episode>
+      {% if post.episode %}<itunes:episode>{{ post.episode }}</itunes:episode>{% endif %}
       <itunes:episodeType>{{ post.episodeType }}</itunes:episodeType>
       <itunes:explicit>{{ post.explicit }}</itunes:explicit>
+      {% if post.block %}<itunes:block>{{ post.block }}</itunes:block>{% endif %}
       <link>{{ post.url | absolute_url }}</link>
+      <guid>{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <itunes:duration>{{ post.length | xml_escape }}</itunes:duration>
       <enclosure url='{{ post.audio | absolute_url }}' length='{{ post.length | xml_escape }}'/>

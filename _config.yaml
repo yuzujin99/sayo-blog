@@ -23,7 +23,7 @@ podcast:
   type: episodic
   explicit: false
   complete: 'no'
-  block: 'no'
+  new-feed-url:
 
 social:
   name: sayo melu

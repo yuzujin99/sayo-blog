@@ -5,9 +5,10 @@ tags: [life]
 title: 选择困难症的末日
 author: sayo melu
 season: 1
-episode: 4
+episode: 3
 episodeType: full
 explicit: false
+block:
 audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-7-31-end-of-choosing-phobia.m4a
 length: 2266
 comment: true
