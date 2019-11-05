@@ -9,7 +9,7 @@ episode:
 episodeType: trailer
 explicit: false
 block:
-audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-4-23-podcast-mind-aroma.m4a
+audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-4-6-host-podcast-on-jekyll.m4a
 length: 280
 comment: true
 ---
