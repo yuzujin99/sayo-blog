@@ -6,12 +6,12 @@ author: sayo melu
 email: sayo-melu@outlook.com
 logo: /asset/icon/logo.png # url of your logo or avatar
 lang: zh-hans # language-territory
-color: '#dc9fb4'
+theme-color: '#dc9fb4'
 feed: true
 
 podcast:
   title: sayo cast
-  description: 欢迎来到 sayo cast. 我是 sayo, 一名热爱思考的计算机专业学生, 这是一档关于生活, 设计的我的个人日记. 
+  description: 欢迎来到 sayo cast, 这是一档关于生活, 设计, 思考的音频日记.
   link: /podcast
   url: /podcast.xml
   author: sayo melu
