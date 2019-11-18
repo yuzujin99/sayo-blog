@@ -7,12 +7,11 @@ permalink: /about
 - [rss](/feed.xml) |
 [podcast](/podcast.xml) |
 [email](mailto:sayo-melu@outlook.com) |
-[bwh](https://20.88.71.97)
+[bwh](https://20.90.71.97)
 - [twitter](https://twitter.com/sayo-melu) |
-[spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq) |
 [linkedin](https://linkedin.com/in/sayo-melu) |
 [github](https://github.com/sayo-melu)
-- [apple music](https://music.apple.com/profile/sayo_melu) |
+- [music](https://music.apple.com/profile/sayo_melu) |
 [gog](https://www.gog.com/u/sayo-melu) |
 [steam](https://steamcommunity.com/id/sayo-melu/) |
 [xbox](https://account.xbox.com/profile?gamertag=sayo%20melu) |
