@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ffmpeg command
-tags: [media, tip, audio, video, podcast]
+tags: [media, tip, podcast]
 comment: true
 ---
 

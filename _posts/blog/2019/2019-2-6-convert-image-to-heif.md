@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 把图片转换为 heif 格式
-tags: [image, tip, life]
+tags: [media, tip, life]
 comment: true
 ---
 

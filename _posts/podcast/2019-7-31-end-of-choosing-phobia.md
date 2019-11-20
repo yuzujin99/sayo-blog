@@ -1,7 +1,7 @@
 ---
 layout: post-podcast
 categories: podcast
-tags: [life]
+tags: [life, think, shop, business]
 title: 选择困难症的末日
 author: sayo melu
 season: 1

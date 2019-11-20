@@ -1,7 +1,7 @@
 ---
 layout: post-podcast
 categories: podcast
-tags: [think]
+tags: [think, business]
 title: '''纸条'' 团队采访'
 author: sayo melu
 season: 1

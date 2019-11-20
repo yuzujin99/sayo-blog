@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 摄影三步走
-tags: photography
+tags: [media, photography]
 comment: true
 ---
 
