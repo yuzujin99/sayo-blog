@@ -1,7 +1,7 @@
 ---
 layout: post
 title: apple & spotify
-tags: music
+tags: [audio]
 comment: true
 ---
 
