@@ -2,14 +2,14 @@
 layout: post-podcast
 categories: podcast
 tags: [think, business]
-title: '''纸条'' 团队采访'
+title: 纸条 团队采访
 author: sayo melu
 season: 1
 episode: 3
 episodeType: full
 explicit: false
 block:
-audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/1-3%20'纸条'%20团队采访.m4a
+audio: 'https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/1-3%20纸条%20团队采访.m4a'
 length: 2852
 comment: true
 ---
