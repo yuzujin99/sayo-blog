@@ -5,6 +5,8 @@ tags: [media, tip, podcast]
 comment: true
 ---
 
+use ffmpeg to convert audio and video.
+
 ## basic
 
 install (macos)
