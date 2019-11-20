@@ -5,11 +5,11 @@ tags: [think]
 title: '''纸条'' 团队采访'
 author: sayo melu
 season: 1
-episode: 2
+episode: 3
 episodeType: full
 explicit: false
 block:
-audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-7-26-zhitiao-team-interview.m4a
+audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/1-3%20'纸条'%20团队采访.m4a
 length: 2852
 comment: true
 ---
@@ -57,11 +57,11 @@ comment: true
 
 ## 主持人和嘉宾
 
-- sayo: [https://sayo-melu.github.io](https://sayo-melu.github.io)
+- sayo melu: [sayo-melu.xyz](https://sayo-melu.xyz)
 - 芊杉: [qianshan.chen15@gmail.com](mailto:qianshan.chen15@gmail.com)
 
 ## 联系我们
 
 - 博客 + 播客: [{{ site.url }}]({{ site.url }})
-- 单集网页 + 留言: [{{ page.url | absolute_url }}]({{ page.url }})
+- 网页 + 留言: [{{ page.url | absolute_url }}]({{ page.url }})
 - 邮箱: [{{ site.podcast.email }}](mailto:{{ site.podcast.email }})

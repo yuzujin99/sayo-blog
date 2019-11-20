@@ -5,11 +5,11 @@ tags: [life]
 title: 选择困难症的末日
 author: sayo melu
 season: 1
-episode: 3
+episode: 4
 episodeType: full
 explicit: false
 block:
-audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-7-31-end-of-choosing-phobia.m4a
+audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/1-4%20选择困难症的末日.m4a
 length: 2266
 comment: true
 ---
@@ -57,16 +57,15 @@ comment: true
 
 ## 特别感谢
 
-- alex yang: [1059899391@qq.com](mailto:1059899391@qq.com)
-- logic song: [sirui313@gmail.com](mailto:sirui313@gmail.com)
+- [alex yang](mailto:1059899391@qq.com), [logic song](mailto:sirui313@gmail.com): 提供反馈
 
 ## 主持人和嘉宾
 
-- sayo melu: [https://sayo-melu.github.io](https://sayo-melu.github.io)
+- sayo melu: [sayo-melu.xyz](https://sayo-melu.xyz)
 - jim yang: [1370210919@qq.com](mailto:1370210919@qq.com)
 
 ## 联系我们
 
 - 博客 + 播客: [{{ site.url }}]({{ site.url }})
-- 单集网页 + 留言: [{{ page.url | absolute_url }}]({{ page.url }})
+- 网页 + 留言: [{{ page.url | absolute_url }}]({{ page.url }})
 - 邮箱: [{{ site.podcast.email }}](mailto:{{ site.podcast.email }})

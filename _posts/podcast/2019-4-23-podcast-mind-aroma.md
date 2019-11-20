@@ -2,14 +2,14 @@
 layout: post-podcast
 categories: podcast
 tags: [podcast, think]
-title: '播客: 思想香薰'
+title: '播客 思想香薰'
 author: sayo melu
 season: 1
-episode: 1
+episode: 2
 episodeType: full
 explicit: false
 block:
-audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-4-23-podcast-mind-aroma.m4a
+audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/1-2%20播客%20思想香薰.m4a
 length: 2007
 comment: true
 ---
@@ -63,11 +63,11 @@ comment: true
 
 ## 主持人和嘉宾
 
-- sayo: [https://sayo-melu.github.io](https://sayo-melu.github.io)
+- sayo melu: [sayo-melu.xyz](https://sayo-melu.xyz)
 - alex: [1059899391@qq.com](mailto:1059899391@qq.com)
 
 ## 联系我们
 
 - 博客 + 播客: [{{ site.url }}]({{ site.url }})
-- 单集网页 + 留言: [{{ page.url | absolute_url }}]({{ page.url }})
+- 网页 + 留言: [{{ page.url | absolute_url }}]({{ page.url }})
 - 邮箱: [{{ site.podcast.email }}](mailto:{{ site.podcast.email }})

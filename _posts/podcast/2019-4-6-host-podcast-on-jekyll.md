@@ -5,11 +5,11 @@ tags: [podcast, blog]
 title: host podcast on jekyll (在 jekyll 上托管播客)
 author: sayo melu
 season: 1
-episode:
-episodeType: trailer
+episode: 1
+episodeType: full
 explicit: false
 block:
-audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2019-4-6-host-podcast-on-jekyll.m4a
+audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/1-1%20host%20podcast%20on%20jekyll%20(在%20jekyll%20上托管播客).m4a
 length: 280
 comment: true
 ---
@@ -43,10 +43,10 @@ my [podcast](https://sayo-melu.github.io/podcast.xml) on my [blog](http://sayo-m
 
 ## host
 
-- sayo: [https://sayo-melu.github.io](https://sayo-melu.github.io)
+- sayo melu: [sayo-melu.xyz](https://sayo-melu.xyz)
 
 ## contact
 
 - blog + podcast: [{{ site.url }}]({{ site.url }})
-- episode webpage + comment: [{{ page.url | absolute_url }}]({{ page.url }})
+- webpage + comment: [{{ page.url | absolute_url }}]({{ page.url }})
 - email: [{{ site.podcast.email }}](mailto:{{ site.podcast.email }})
