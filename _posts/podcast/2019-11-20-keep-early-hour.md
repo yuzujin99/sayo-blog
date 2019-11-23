@@ -90,9 +90,9 @@ comment: true
   - 勿扰模式
   - 设置闹铃
 
-## 🙏 感谢
+## 感谢
 
-- [alex yang](mailto:1059899391@qq.com), [wayne wu](mailto:xzz2000xzz@outlook.com): 提供反馈
+- 提供反馈: [alex yang](mailto:1059899391@qq.com), [wayne wu](mailto:xzz2000xzz@outlook.com)
 - [imad 格式的睡眠恢复报告 - milkshake](https://byte.coffee/39)
 - [晚睡晚起对身体有害吗? - 知乎](https://www.zhihu.com/question/22204783)
 
