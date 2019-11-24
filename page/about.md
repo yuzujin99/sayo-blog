@@ -41,4 +41,4 @@ switch: 6284-9034-1916
 
 ## theme
 
-[sayo theme](https://gitlab.com/sayo-melu/sayo-blog) edited from [jekyll now](https://github.com/barryclark/jekyll-now) with [vssue](https://vssue.js.org).
+[sayo theme](https://github.com/sayo-melu/sayo-blog) edited from [jekyll now](https://github.com/barryclark/jekyll-now) with [vssue](https://vssue.js.org).
