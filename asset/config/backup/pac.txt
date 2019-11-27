@@ -1,0 +1,7 @@
+! https://adblockplus.org/en/filter-cheatsheet
+
+||github.com
+||githubusercontent.com
+||githubassets.com
+||slack.com
+||slack-edge.com
