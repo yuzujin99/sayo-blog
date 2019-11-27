@@ -33,3 +33,5 @@ story music from 'death stranding'. also available on [apple music](https://musi
 | BB's Theme (from Death Stranding) | Ludvig Forssell & Jenny Plant |
 | Almost Nothing (feat. Okay Kaya) | SILENT POETS |
 | Death Stranding | CHVRCHES |
+
+markdown list is made from apple music with [playlist to markdown](https://www.icloud.com/shortcuts/eda932980b8743a78b32a22f71aeec56)(created by sayo).
