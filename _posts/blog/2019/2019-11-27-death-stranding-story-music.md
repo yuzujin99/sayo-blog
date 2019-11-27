@@ -5,7 +5,7 @@ tags: [media, game, music]
 comment: true
 ---
 
-story music from 'death stranding'. also available on [apple music](https://music.apple.com/playlist/death-stranding/pl.u-gxblk3mIbY5ZrMz).
+story music from 'death stranding'. available as list below, and on [apple music](https://music.apple.com/playlist/death-stranding/pl.u-gxblk3mIbY5ZrMz).
 
 | title | artist |
 | ---- | ----- |
@@ -34,4 +34,4 @@ story music from 'death stranding'. also available on [apple music](https://musi
 | Almost Nothing (feat. Okay Kaya) | SILENT POETS |
 | Death Stranding | CHVRCHES |
 
-markdown list is made from apple music with [playlist to markdown](https://www.icloud.com/shortcuts/eda932980b8743a78b32a22f71aeec56)(created by sayo).
+markdown list is made from apple music with [playlist to markdown](https://www.icloud.com/shortcuts/eda932980b8743a78b32a22f71aeec56) (created by sayo).
