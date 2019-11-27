@@ -5,7 +5,7 @@ tags: web
 comment: true
 ---
 
-'you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.' ― antoine de saint-exupéry
+<you know you have achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away\> ― antoine de saint exupery
 
 [nothingblock on github](https://github.com/sayo-melu/nothingblock)
 

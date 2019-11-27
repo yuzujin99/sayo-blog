@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "'death stranding' story music"
+title: "&lt;death stranding&gt; story music"
 tags: [media, game, music]
 comment: true
 ---
 
-story music from 'death stranding'. available as list below, and on [apple music](https://music.apple.com/playlist/death-stranding/pl.u-gxblk3mIbY5ZrMz).
+story music from <death stranding\>. available as list below, and on [apple music](https://music.apple.com/playlist/death-stranding/pl.u-gxblk3mIbY5ZrMz).
 
 | title | artist |
 | ---- | ----- |

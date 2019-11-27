@@ -2,7 +2,7 @@
 layout: post-podcast
 categories: podcast
 tags: [podcast, think]
-title: '播客 思想香薰'
+title: '&lt;播客&gt; 思想香薰'
 author: sayo melu
 season: 1
 episode: 2
@@ -22,7 +22,9 @@ comment: true
 - 播客就像香薰
   - 香薰更多培养自己内在的情趣
   - 不客观, 湿货多
+    
     > 什麼是溼貨？無用的, 主觀的, 熱烈的, 有力的, 情感的, 讓你有隊可站的. 這些是播客的強項. 音頻廣播是一種很特別的媒介, 比視頻, 圖畫和文字都更能直接訴諸情感. - [不鳥萬如一](https://www.zhihu.com/people/lawrencelry)
+
   - 潜移默化
 - 播客和视频
   - 运动, 公交, 网络不好 无法观看视频
@@ -30,7 +32,7 @@ comment: true
     > 通勤時間長, 在不平穩的路上看書, 或者在擁擠的車廂內玩遊戲都不是良好的體驗. 如果自己駕車, 那麼就更不可能看書和玩遊戲了. - [抽屉(chouti)](https://www.zhihu.com/people/chouti)
 
     > podcast 可以让人不使用眼睛的时候也能思考和学习. - [不鳥萬如一](https://www.zhihu.com/people/lawrencelry)
-
+    
   - 视频并不总是传递信息最有效的方式
     - 对于有些视频而言, 是否去掉画面, 对信息传递没有影响
 - 我推荐的播客
@@ -53,7 +55,7 @@ comment: true
   - 现代社会, 除了工作, 很少有人打电话
 - 对一个行业表达喜爱的最好的方式, 就是投身于这个行业
 - 制作方式
-  - macnook pro 录制
+  - macbook pro 录制
   - macos garageband 剪辑
   - 通过 [jekyll-podcast](https://github.com/sayo-melu/jekyll-podcast) 在 github 上托管
 
