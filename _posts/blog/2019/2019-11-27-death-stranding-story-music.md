@@ -1,6 +1,6 @@
 ---
 layout: post
-title: death stranding story music
+title: "'death stranding' story music"
 tags: [media, game, music]
 comment: true
 ---
