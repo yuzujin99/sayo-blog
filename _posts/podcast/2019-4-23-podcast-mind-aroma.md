@@ -2,7 +2,7 @@
 layout: post-podcast
 categories: podcast
 tags: [podcast, think]
-title: '&lt;播客&gt; 思想香薰'
+title: '播客 思想香薰'
 author: sayo melu
 season: 1
 episode: 2
