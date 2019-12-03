@@ -17,7 +17,7 @@ sudo gem install bundler
 bundle install
 
 # build stylus (optional)
-stylus -w /asset/style/style.styl -o /asset/style/style.css
+stylus -w ./asset/style/style.styl -o ./asset/style/style.css
 
 # test locally
 bundle exec jekyll serve
