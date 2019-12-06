@@ -14,6 +14,15 @@ length: 280
 comment: true
 ---
 
+<p>
+  {% if page.season %}第 {{ page.season }} 季, {% endif %}{% if page.episode %}第 {{ page.episode }} 集{% endif %}
+  &nbsp;
+  <a href='/podcast'>订阅播客</a>
+</p>
+<audio controls preload='auto' style='width: 100%;'>
+  <source src='{{ page.audio }}'>
+</audio>
+
 feel free to host audio podcast with [jekyll-podcast](https://github.com/sayo-melu/jekyll-podcast) on jekyll.
 
 ## why do i build jekyll-podcast

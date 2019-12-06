@@ -5,7 +5,7 @@ tags: [media, game, music]
 comment: true
 ---
 
-story music from <death stranding\>. available as list below, and on [apple music](https://music.apple.com/playlist/death-stranding/pl.u-gxblk3mIbY5ZrMz).
+story music from <death stranding\>, sort in story order. available on [spotify](https://open.spotify.com/playlist/6mYpLgtHJ7ZpSfJJw7o1Ea?si=VAsvNoKCQ0aTZSgzEvgasQ), and list below.
 
 | title | artist |
 | ---- | ----- |
@@ -17,11 +17,13 @@ story music from <death stranding\>. available as list below, and on [apple musi
 | Asylums for the Feeling (feat. Leila Adu) | SILENT POETS |
 | Patience | Low Roar |
 | I'm Leaving | Low Roar |
+| Waiting (10 Years) | Low Roar |
 | Give Up | Low Roar |
 | Without You | Low Roar |
 | Because We Have To | Low Roar |
 | Once In a Long, Long While... | Low Roar |
 | Rolling Over | Low Roar |
+| The Machine | Low Roar |
 | St. Eriksplan | Low Roar |
 | Without You | Low Roar |
 | Patience | Low Roar |
