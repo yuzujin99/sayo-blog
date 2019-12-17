@@ -7,7 +7,7 @@ permalink: /about
 - [rss](/feed.xml) |
 [podcast](/podcast.xml) |
 [email](mailto:sayo-melu@outlook.com) |
-[bwh](https://20.90.71.97)
+[bwh](https://90.71.97.0)
 - [twitter](https://twitter.com/sayo-melu) |
 [linkedin](https://linkedin.com/in/sayo-melu) |
 [github](https://github.com/sayo-melu)
