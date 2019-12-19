@@ -123,7 +123,7 @@ comment: true
 > 
 > 原文: [sayo-melu.xyz/trans-body-be-a-girl](https://sayo-melu.xyz/trans-body-be-a-girl)
 > 
-> 文章长图: [点击查看](https://sayo-melu.xyz/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.png)
+> 文章长图: [点击查看](https://github.com/sayo-melu/sayo-blog/raw/master/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.png)
 > 
 > 提问反馈: [sayo-melu@outlook.com](mailto:sayo-melu@outlook.com)
 > 
