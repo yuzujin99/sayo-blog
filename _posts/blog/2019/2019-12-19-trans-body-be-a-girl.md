@@ -122,8 +122,8 @@ comment: true
 > 注明出处转载这篇文章, 希望它可以帮到更多人.
 > 
 > 原文: [sayo-melu.xyz/trans-body-be-a-girl](https://sayo-melu.xyz/trans-body-be-a-girl)
->
-> 其他样式: [pdf](https://github.com/sayo-melu/sayo-blog/raw/master/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.pdf), [长图](https://github.com/sayo-melu/sayo-blog/raw/master/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.png)
+> 
+> 其他样式: [pdf](https://sayo-melu.xyz/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.pdf), [长图](https://sayo-melu.xyz/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.png)
 > 
 > 提问反馈: [sayo-melu@outlook.com](mailto:sayo-melu@outlook.com)
 > 
