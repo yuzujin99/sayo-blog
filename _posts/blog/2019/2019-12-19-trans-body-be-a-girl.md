@@ -1,4 +1,9 @@
-# 变 [身] 指南 - be a girl 1
+---
+layout: post
+title: 变 [身] 指南 - be a girl 1
+tags: [trans, girl, beauty]
+comment: true
+---
 
 想要变成一个女孩子, 就要先从外貌下手, 一步一步变可爱.
 
@@ -116,7 +121,11 @@
 **特别感谢**: 第三人称, 自带呆毛的然然.
 
 > 注明出处转载这篇文章, 希望它可以帮到更多人.
+> 
 > 原文: [sayo-melu.xyz/trans-body-be-a-girl](https://sayo-melu.xyz/trans-body-be-a-girl)
+> 
 > 文章长图: [点击查看](https://sayo-melu.xyz/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.jpg)
+> 
 > 提问反馈: [sayo-melu@outlook.com](mailto:sayo-melu@outlook.com)
+> 
 > 更新日期: 2019.12.19
