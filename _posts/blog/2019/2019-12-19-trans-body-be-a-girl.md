@@ -17,6 +17,7 @@ comment: true
 
 **脸部**: 洗面奶 + 爽肤水 + 乳液 + 面膜
 
+- 早睡早起, 规律睡眠.
 - 不要使用男士洗面奶. (其去油效果过于强烈, 对皮肤不好)
 - 温水洗脸
 - 用水微微润湿皮肤, 再使用爽肤水. 
@@ -56,6 +57,7 @@ comment: true
 
 **护理**: 柔顺 + 护发精油
 
+- 早睡早起, 规律睡眠.
 - 柔顺: 洗完澡后, 用吹风机 (常温或温热) 将头发吹到半干, 再自然风干.
 - 使用吹风机时, 先吹发根, 再吹发尾, 可以让头发不容易翘起.
 - 如果觉得发质比较干枯, 可以使用护发精油, 将精油涂至发尾.
@@ -122,8 +124,6 @@ comment: true
 > 注明出处转载这篇文章, 希望它可以帮到更多人.
 > 
 > 原文: [sayo-melu.xyz/trans-body-be-a-girl](https://sayo-melu.xyz/trans-body-be-a-girl)
-> 
-> 其他样式: [pdf](https://sayo-melu.xyz/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.pdf), [长图](https://sayo-melu.xyz/asset/image/2019-12-19-trans-body-be-a-girl/trans-body-be-a-girl.png)
 > 
 > 提问反馈: [sayo-melu@outlook.com](mailto:sayo-melu@outlook.com)
 > 
