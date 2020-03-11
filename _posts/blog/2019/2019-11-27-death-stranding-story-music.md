@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "&lt;death stranding&gt; story music"
+title: "'death stranding' story music"
 tags: [media, game, music]
 comment: true
 ---
 
-story music from <death stranding\>, sort in story order. available on [spotify](https://open.spotify.com/playlist/6mYpLgtHJ7ZpSfJJw7o1Ea?si=VAsvNoKCQ0aTZSgzEvgasQ), and list below.
+story music from 'death stranding', sort in story order. available on [spotify](https://open.spotify.com/playlist/6mYpLgtHJ7ZpSfJJw7o1Ea?si=VAsvNoKCQ0aTZSgzEvgasQ), and list below.
 
 | title | artist |
 | ---- | ----- |

@@ -9,7 +9,7 @@ episode: 1
 episodeType: full
 explicit: false
 block:
-audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2-1%20不仅仅是剪掉耳机线-no-flag.m4a
+audio: https://raw.githubusercontent.com/sayo-melu/sayo-cast/master/asset/2-1%20不仅仅是剪掉耳机线.m4a
 length: 1,130
 comment: true
 ---

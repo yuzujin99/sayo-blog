@@ -72,7 +72,7 @@ markdown 是一种轻量级标记语言, 创始人为 john gruber.
 
 ### 格式
 
-```md
+```markdown
 # 2019.11
 
 ## 1
