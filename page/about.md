@@ -14,7 +14,7 @@ switch: 6284-9034-1916
 - [github](https://github.com/sayo-melu) |
 [linkedin](https://linkedin.com/in/sayo-melu)
 - [blog rss](/feed.xml) |
-[podcast rss](/podcast.xml) |
+[podcast rss](/podcast.xml)
 
 ## timeline
 
