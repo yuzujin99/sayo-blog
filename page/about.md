@@ -4,24 +4,23 @@ title: about
 permalink: /about
 ---
 
-- [rss](/feed.xml) |
-[podcast](/podcast.xml) |
-[email](mailto:sayo-melu@outlook.com) |
-[bwh](https://90.71.97.0)
-- [twitter](https://twitter.com/sayo-melu) |
-[linkedin](https://linkedin.com/in/sayo-melu) |
-[github](https://github.com/sayo-melu)
+- [email](mailto:sayo-melu@outlook.com) |
+[twitter](https://twitter.com/sayo——melu) |
+[bwh](https://0.93.71.97)
 - [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq) |
 [gog](https://www.gog.com/u/sayo-melu) |
 [steam](https://steamcommunity.com/id/sayo-melu/) |
-[xbox](https://account.xbox.com/profile?gamertag=sayo%20melu) |
 switch: 6284-9034-1916
+- [github](https://github.com/sayo-melu) |
+[linkedin](https://linkedin.com/in/sayo-melu)
+- [blog rss](/feed.xml) |
+[podcast rss](/podcast.xml) |
 
 ## timeline
 
 - 2019
-  - 4.6 start making [podcast](https://sayo-melu.github.io/podcast.xml)
-  - 2.26 start making blog
+  - 4.6 start podcast
+  - 2.26 start blog
 - 2018
   - 9.1 enter [xjtlu](https://xjtlu.edu.cn/)
 - 1999
@@ -38,6 +37,7 @@ switch: 6284-9034-1916
 - [neddos](https://www.neddos.tech)
 - [kiv zone](https://kivenchen.us)
 - [kison he](https://kisonhe.github.io)
+- [yuukisama](https://www.yuukisama.cc)
 
 ## theme
 
